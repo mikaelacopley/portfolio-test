@@ -1,0 +1,113 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0A2239;
+  font-family: Arial, Times, serif;
+  color: #D6D6D6;
+  text-align: center;
+  font-size: 16px
+  margin: 30;
+  padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+h1 {
+  color: #FFF;
+  font-family: Arial, Times, serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+  color: #FFF;
+  font-family: Arial, Times, serif;
+    text-align: center;
+    font-size: 32px;
+}
+
+h3 {
+  color: #FFF;
+  font-family: Arial, Times, serif;
+    text-align: center;
+    font-size: 28px;
+}
+
+h4 {
+  color: #FFF;
+  font-family: Arial, Times, serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+p {
+  color: #D6D6D6;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 16px
+}
+
+
+li {
+  list-style-position: inside;
+  padding: 5px 10px;
+  font-size: 16px;
+  font-color: #D6D6D6;
+}
+
+
+
+.btn {
+  display: inline-block;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #1D84B5;
+  border-color: #53A2BE;
+  text-align: center;
+
+}
+
+footer p {
+  color: white;
+  font-color: #132E32
+}
+
+
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1D84B5;
+  color: white;
+  text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.align-left{
+  text-align: left;
+}
+
+img {
+  padding: 5px;
+  width: 400px;
+  align: center;
+}
