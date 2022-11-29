@@ -111,3 +111,8 @@ img {
   width: 400px;
   align: center;
 }
+
+a:link    { color: #F7A0BC;  }
+a:visited { color:#D7C4FE; }
+a:hover   { color: #B8B8F3; }
+a:active  { color: #D7B8F3; }
