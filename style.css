@@ -23,7 +23,7 @@
 	  <!--photo-->
     <img src="images/Home/Mikaela_headshot.png" alt="Mikaela headshot" /> 
     <p> Hi, I am Mikaela Copley. <br>
-      As a marketing analyst and software engineer in Phoenix, AZ,<br>
+      As a marketing analyst and software engineer in Phoenix, AZ,</p>
       <strong>I am skilled in:</strong><br>
       <ul>
         <li>Software and web designs with proven ROI</li>
@@ -31,7 +31,7 @@
         <li>Providing both function and aesthetics </li>
       </ul>
       
-    </p>
+    
 
     <div>
 		<h3>Interested in leveling up your team?</h3>
@@ -50,9 +50,9 @@
 <li class="align-left">Graduated from Arizona State University with a marketing degree.</li>
   </ol>
   
-<div/>
+</div>
 
-
+<div>
 <p>Currently, I work as a Data Analyst focusing on reporting and data visualization. On the side I run a software app. I am passionate about data driven results and effective marketing tactics to drive better business. </p><br>
 
 <!--Personal section in bold-->
@@ -73,17 +73,18 @@
 </div>
 
     
-</main>
 <!--end main container -->
+ 
+
 	<footer>
 		<p>© Mikaela Copley</p>
 	
 </footer>
-
+</main>
 
     
   <script src="script.js"></script>
-
+ 
 </body>
 
 </html>
